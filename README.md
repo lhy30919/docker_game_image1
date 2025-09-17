@@ -1,4 +1,4 @@
-#도커 이미지 생성 연습 입니다. <br>
+# 도커 이미지 생성 연습 입니다. <br>
 # 1. 작업 폴더 생성<br>
 mkdir  ~/dockerimage && cd ~/dockerimage<br>
 
@@ -22,7 +22,7 @@ docker run -d --name mygame -p 8080:8080 \\<br>
 # 7. 웹으로 확인<br>
 firefox http://192.168.10.10:8080/{실행파일명.html} <br>
 
- 도커 이미지 실습 주소입니다 :)<br>
+# 도커 이미지 실습 주소입니다 :)<br>
 [Snake Game]<br>
 https://hub.docker.com/r/haeyoun/gameimage1<br>
 <br>
